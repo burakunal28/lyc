@@ -1,6 +1,6 @@
 # Love Your Cat - Cat Care App
 
-![Love Your Cat Logo](assets/loveyourcat-logo.png)
+![Love Your Cat Logo](/assets/loveyourcat-logo.png)
 
 Love Your Cat is a comprehensive cat care application designed to enhance the well-being of your feline companions. This README provides an overview of the app's structure and features.
 
@@ -60,7 +60,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 # Love Your Cat - Kedi Bakım Uygulaması
 
-![Love Your Cat Logo](assets/loveyourcat-logo.png)
+![Love Your Cat Logo](/assets/loveyourcat-logo.png)
 
 Love Your Cat, kedinizin sağlığını ve refahını artırmayı amaçlayan kapsamlı bir kedi bakım uygulamasıdır. Bu README, uygulamanın yapısını ve özelliklerini anlatan bir genel bakış sunar.
 
