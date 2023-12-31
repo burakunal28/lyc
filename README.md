@@ -1,8 +1,6 @@
 # Love Your Cat - Cat Care App
 
-![Love Your Cat Logo](src/assets/logo.svg)
-
-Love Your Cat is a comprehensive cat care application designed to enhance the well-being of your feline companions. This README provides an overview of the app's structure and features.
+Love Your Cat is a comprehensive cat care application designed to enhance the well-being of your feline companions. This README provides an overview of the app's structure and features. Go to [this link](https://burakunal28.github.io/lyc) to open the website.
 
 ## Table of Contents
 
@@ -18,7 +16,6 @@ To get started with Love Your Cat, follow these steps:
 
 1. Clone this repository to your local machine.
 2. Open the `index.html` file in your web browser or install the Love Your Cat app on your mobile device.
-3. Go to [this](https://burakunal28.github.io/lyc) link to start the application.
 
 ## Features
 
@@ -60,9 +57,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 # Love Your Cat - Kedi Bakım Uygulaması
 
-![Love Your Cat Logo](src/assets/logo.svg)
-
-Love Your Cat, kedinizin sağlığını ve refahını artırmayı amaçlayan kapsamlı bir kedi bakım uygulamasıdır. Bu README, uygulamanın yapısını ve özelliklerini anlatan bir genel bakış sunar.
+Love Your Cat, kedinizin sağlığını ve refahını artırmayı amaçlayan kapsamlı bir kedi bakım uygulamasıdır. Bu README, uygulamanın yapısını ve özelliklerini anlatan bir genel bakış sunar. Web sitesine ulaşmak için [bu bağlantıya](https://burakunal28.github.io/lyc) tıklayın.
 
 ## İçindekiler
 
@@ -98,7 +93,6 @@ Love Your Cat ile başlamak için şu adımları izleyin:
 
 1. `index.html` dosyasını web tarayıcınızda açın veya Love Your Cat mobil uygulamasını başlatın.
 2. Uygulamanın özelliklerini, Kedi Ödülleri, %100 Kedi Güvenliği ve Kedi Dengesi gibi keşfedin.
-3. Uygulamayı başlatmak için [bu](https://burakunal28.github.io/lyc) bağlantıya gidin.
 
 ## Katkıda Bulunma
 
