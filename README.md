@@ -1,6 +1,6 @@
 # Love Your Cat - React Web App
 
-Love Your Cat is a comprehensive cat care application designed to enhance the well-being of your feline companions. This README provides an overview of the app's structure and features. Go to [this link](https://burakunal28.github.io/lyc) to open the website.
+Love Your Cat is a comprehensive cat care application designed to enhance the well-being of your feline companions. This README provides an overview of the app's structure and features.
 
 ## Table of Contents
 
